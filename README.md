@@ -116,22 +116,6 @@ Make sure you have the following installed:
 
 ---
 
-## Project Structure
-
-```
-cyberguard/
-├── public/          # Static assets
-├── src/             # Source code
-│   ├── components/  # React components
-│   ├── pages/       # Next.js pages
-│   ├── api/         # API routes (Edge functions)
-│   └── utils/       # Utility functions
-├── package.json     # Dependencies
-├── tsconfig.json    # TypeScript config
-└── README.md        # This file
-```
-
----
 
 ## Contributing
 
@@ -172,7 +156,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact & Support
 
-- **Report bugs**: [Issues](https://github.com/raihanrama/cyberguard/issues)
+- **Report bugs**: [Issues](https://github.com/raihanrama/Website-Screener-TSX/issues)
 - **Feature requests**: [Discussions](https://github.com/raihanrama/cyberguard/discussions)
 - **Email**: your-email@example.com
 
