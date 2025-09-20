@@ -1,4 +1,4 @@
-# CyberGuard
+# CyberSecure
 
 > **AI-Powered Link Safety Analyzer & Cybersecurity Assistant**
 ---
