@@ -22,7 +22,7 @@ CyberSecure is a cutting-edge web application that leverages the power of **AI**
 ### Prerequisites
 
 Make sure you have the following installed:
-- **Node.js** (v18++)
+- **Node.js** (v18 up)
 - **npm** or **yarn**
 
 ### Installation
