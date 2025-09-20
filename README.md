@@ -30,7 +30,7 @@ Make sure you have the following installed:
 1. **Clone the repository**
    ```bash
    git clone https://github.com/raihanrama/Website-Screener-TSX.git
-   cd cyberguard
+   cd Website-Screener-TSX
    ```
 
 2. **Install dependencies**
