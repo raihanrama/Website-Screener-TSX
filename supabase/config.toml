@@ -1,0 +1,7 @@
+project_id = "ljwppygxpebsqjnejdya"
+
+[functions.analyze-website]
+verify_jwt = false
+
+[functions.cybersecurity-chat]
+verify_jwt = false
