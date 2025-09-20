@@ -3,7 +3,7 @@
 > **AI-Powered Link Safety Analyzer & Cybersecurity Assistant**
 ---
 
-## What is CyberGuard?
+## What is CyberSecure?
 
 CyberGuard is a cutting-edge web application that leverages the power of **AI** to keep you safe online. With advanced link analysis capabilities and an intelligent cybersecurity assistant, it's your first line of defense against digital threats.
 
