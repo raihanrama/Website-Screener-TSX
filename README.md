@@ -157,7 +157,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact & Support
 
 - **Report bugs**: [Issues](https://github.com/raihanrama/Website-Screener-TSX/issues)
-- **Feature requests**: [Discussions](https://github.com/raihanrama/cyberguard/discussions)
+- **Feature requests**: [Discussions](https://github.com/raihanrama/Website-Screener-TSX/discussions)
 - **Email**: your-email@example.com
 
 ---
