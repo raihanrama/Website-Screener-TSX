@@ -146,7 +146,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**Made with ❤️ by [raihanrama](https://github.com/raihanrama)**
+**Made with ❤️ by [Muhammad Raihan Ramadhan](https://github.com/raihanrama)**
 
 ⭐ **Star this repo if you found it helpful!** ⭐
 
