@@ -1,6 +1,6 @@
 # CyberSecure
 
-> **AI-Powered Link Safety Analyzer & Cybersecurity Assistant**
+> **AI-Powered Link  Analyzer & Cybersecurity Assistant**
 ---
 
 ## What is CyberSecure?
