@@ -78,8 +78,8 @@ Make sure you have the following installed:
 ### Architecture
 
 - **Frontend**: Next.js with TypeScript for type-safe, modern web development
-- **AI Engine**: Google Gemini 2.5 Flash for intelligent analysis and responses
-- **Runtime**: Edge Functions for global, low-latency AI processing
+- **AI Engine**: Google Gemini 2.5 Flash for intelligent analysis and responses and free 
+- **Runtime**: Edge Functions for global, low-latency AI processing 
 - **Styling**: Modern CSS with responsive design principles
 
 ---
