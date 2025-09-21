@@ -138,7 +138,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - **Google Gemini** for providing the powerful AI capabilities
-- **Vercel** for Edge Runtime infrastructure
+- **Netlify** for Edge Runtime infrastructure
 - **Next.js** team for the amazing framework
 - **Open source community** for inspiration and tools
 
